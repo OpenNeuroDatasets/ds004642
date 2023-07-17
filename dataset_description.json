@@ -14,7 +14,11 @@
         "Swiss National Science Foundation, SNSF 204651",
         "Alexander S. Onassis Public Benefit Foundation Scholarship"
     ],
-    "EthicsApprovals": ["Kantonale Ethikkommision PB-2017-00094"],
-    "ReferencesAndLinks": ["Vasileios Dimakopoulos, Marian C. Neidert, Johannes Sarnthein, Low impedance electrodes improve detection of high frequency oscillations in the intracranial EEG, Clinical Neurophysiology, 2023"],
-    "DatasetDOI": "add the doi from openneuro"
+    "EthicsApprovals": [
+        "Kantonale Ethikkommision PB-2017-00094"
+    ],
+    "ReferencesAndLinks": [
+        "Vasileios Dimakopoulos, Marian C. Neidert, Johannes Sarnthein, Low impedance electrodes improve detection of high frequency oscillations in the intracranial EEG, Clinical Neurophysiology, 2023"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004642.v1.0.0"
 }
