@@ -5,7 +5,7 @@
     "SoftwareFilters": "n/a",
     "HardwareFilters": {
         "HighpassFilter": {
-            "CutoffFrequency": 5
+            "CutoffFrequency": 0.5
         },
         "LowpassFilter": {
             "CutoffFrequency": 5000
@@ -15,7 +15,7 @@
     "ManufacturersModelName": "Inomed ISIS System",
     "TaskDescription": "Medianus stimulation at 4.70 Hz with low and high impedance ECoG electrodes",
     "InstitutionName": "Department of Neurosurgery, University Hospital Zurich",
-    "InstitutionAddress": "Frauenklinikstrasse 10, 8091 Zurich",
+    "InstitutionAddress": "Rämistrasse 100, 8091 Zurich",
     "ECOGChannelCount": 8,
     "EEGChannelCount": 1,
     "EOGChannelCount": 0,
