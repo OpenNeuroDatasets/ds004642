@@ -1,0 +1,9 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	ElectrodeManufacturer
+1a-Fz	ECOG	mV      	0	5000	20000	WISE
+2a-Fz	ECOG	mV      	0	5000	20000	WISE
+3a-Fz	ECOG	mV      	0	5000	20000	WISE
+4b-Fz	ECOG	mV      	0	5000	20000	ADTECH
+3b-Fz	ECOG	mV      	0	5000	20000	ADTECH
+2b-Fz	ECOG	mV      	0	5000	20000	ADTECH
+1b-Fz	ECOG	mV      	0	5000	20000	ADTECH
+4a-Fz	ECOG	mV      	0	5000	20000	WISE

@@ -1,0 +1,31 @@
+{
+    "TaskName": "lozHFO",
+    "SamplingFrequency": 20000,
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": {
+        "HighpassFilter": {
+            "CutoffFrequency": 0.5
+        },
+        "LowpassFilter": {
+            "CutoffFrequency": 5000
+        }
+    },
+    "Manufacturer": "Inomed Medizintechnik GmbH",
+    "ManufacturersModelName": "Inomed ISIS System",
+    "TaskDescription": "Medianus stimulation at 4.70 Hz with low and high impedance ECoG electrodes",
+    "InstitutionName": "Department of Neurosurgery, University Hospital Zurich",
+    "InstitutionAddress": "Rämistrasse 100, 8091 Zurich",
+    "ECOGChannelCount": 8,
+    "EEGChannelCount": 1,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "RecordingDuration": 355.8,
+    "RecordingType": "continuous",
+    "SubjectArtefactDescription": "",
+    "SoftwareVersions": "n/a",
+    "iEEGReference": "dura needle"
+}
